@@ -1,4 +1,4 @@
-#myCat Series
+# myCat Series
 
 Manual/Timer Operation Program for myCat Light
 
@@ -6,7 +6,7 @@ Manual/Timer Operation Program for myCat Light
 2. https://github.com/Philip-Kim/myCat_by_Python
 3. https://github.com/Philip-Kim/myCat_by_Wemos
 
-#Description
+# Description
 
 고양이 취침등을 스마트폰, 타이머 동작으로 사용하기 위해 작성한 프로그램
 
